@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette Color -->
+    <color name="primary_100">#B3E5FC</color>
+    <color name="primary_500">#03A9F4</color>
+    <color name="primary_900">#01579B</color>
+
+    <!-- Secondary Palette Color -->
+    <color name="secondary_100">#FFCCBC</color>
+    <color name="secondary_400">#FF7043</color>
+    <color name="secondary_700">#E64A19</color>
+
+</resources>

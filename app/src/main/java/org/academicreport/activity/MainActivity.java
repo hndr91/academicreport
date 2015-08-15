@@ -1,9 +1,11 @@
-package org.academicreport;
+package org.academicreport.activity;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import org.academicreport.R;
 
 
 public class MainActivity extends ActionBarActivity {
